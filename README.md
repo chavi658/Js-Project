@@ -1,1 +1,1 @@
-This site is developed by Java Script This site is a Penny design site
+Creating an interior design website with HTML, CSS, and JavaScript
